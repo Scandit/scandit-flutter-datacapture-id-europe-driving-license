@@ -1,6 +1,6 @@
 name: scandit_flutter_datacapture_id_europe_driving_license
 description: ScanditIdEuropeDrivingLicense is a library that enables decoding of the back of European driving licenses.
-version: 7.1.3
+version: 7.2.0
 homepage: https://scandit.com
 
 environment:
